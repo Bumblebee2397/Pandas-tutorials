@@ -5,7 +5,8 @@ This repo includes jupyter notebooks for each part of the Pandas video series up
 The is the part wise description for each notebook:\
 Part 1: Getting Started with Data Analysis - Installation and Loading Data\
 Part 2: DataFrame and Series Basics - Selecting Rows and Column\
-Part 3: Indexes - How to Set, Reset, and Use Indexes  Part 4: Filtering - Using Conditionals to Filter Rows and Columns\
+Part 3: Indexes - How to Set, Reset, and Use Indexes\
+Part 4: Filtering - Using Conditionals to Filter Rows and Columns\
 Part 5: Updating Rows and Columns - Modifying Data Within DataFrames\
 Part 6: Add/Remove Rows and Columns From DataFrames\
 Part 7: Sorting Data\
