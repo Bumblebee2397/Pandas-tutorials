@@ -1,6 +1,6 @@
 # Pandas-tutorials
 
-This repo includes jupyter notebooks for each part of the Pandas video series uploaded **Corey Schafer** on YouTube. **I've added comments in each cell for reference purpose as going through the long videos again is quite tedious**. Checkout the awesome video series here: https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS.
+This repo includes jupyter notebooks for each part of the Pandas video series uploaded **Corey Schafer** on YouTube. **I've added comments in each cell for reference purpose as going through the long videos again is quite tedious**. Checkout the awesome video series here: https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
 
 The is the part wise description for each notebook:\
 Part 1: Getting Started with Data Analysis - Installation and Loading Data\
