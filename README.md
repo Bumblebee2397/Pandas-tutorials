@@ -1,5 +1,4 @@
 # Pandas-tutorials
-
 ## Overview
 This repo includes jupyter notebooks for each part of the Pandas video series uploaded by **Corey Schafer** on YouTube. 
 
