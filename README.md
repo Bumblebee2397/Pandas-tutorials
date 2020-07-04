@@ -16,7 +16,7 @@ Part 8: Grouping and Aggregating - Analyzing and Exploring Your Data\
 Part 9: Cleaning Data - Casting Datatypes and Handling Missing Values\
 Part 10: Working with Dates and Time Series Data
 
-## Dependenices
+## Dependencies
 Pandas, Matplotlib
 
 ## Dataset
