@@ -20,5 +20,5 @@ Part 10: Working with Dates and Time Series Data
 ## Dependenices
 Pandas, Matplotlib
 
-## Data used
-Stackoverflow survey data for 2019 is used for analysis. The link for download is as follows: https://drive.google.com/open?id=1QOmVDpd8hcVYqqUXDXf68UMDWQZP0wQV
+## Dataset
+**Stackoverflow survey data** for **2019** is used for analysis. The link for download is as follows: https://drive.google.com/open?id=1QOmVDpd8hcVYqqUXDXf68UMDWQZP0wQV
